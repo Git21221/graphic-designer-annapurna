@@ -52,6 +52,7 @@ img {
 img {
     width: 50%;
 }
+<<<<<<< HEAD
 .annalogo{
     width: 20%;
     padding-right: 30px;
@@ -61,6 +62,9 @@ img {
         width: 40%;
     }
 }
+=======
+
+>>>>>>> 5adabf2a20b063d4010fe92d2156d7c4c198925c
 .offer {
     margin-top: 100px;
     display: flex;
