@@ -56,7 +56,7 @@ img {
     width: 20%;
     padding-right: 30px;
 }
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 600px) {
     .annalogo{
         width: 40%;
     }
