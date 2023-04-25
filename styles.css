@@ -49,12 +49,12 @@ img {
     /* width: 50%; */
 }
 
-img {
-    width: 50%;
-}
 .annalogo{
     width: 20%;
     padding-right: 30px;
+}
+img {
+    width: 50%;
 }
 @media screen and (max-width: 600px) {
     .annalogo{
