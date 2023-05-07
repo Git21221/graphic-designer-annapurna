@@ -245,3 +245,24 @@ a:hover, a:active {
         display: block;
     }
 }
+.row{
+    row-gap: 30px;
+}
+.threeText{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+.text1{
+    font-size: 3rem;
+    font-weight: bolder;
+    color: brown;
+}
+.text2{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.text3{
+    font-size: 2rem;
+    color: red;
+}
