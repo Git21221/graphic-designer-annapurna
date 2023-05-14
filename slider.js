@@ -7,7 +7,7 @@ $(document).ready(function () {
         e.preventDefault();
         $('.slides-container').animate({
             left: '+=' + slideWidth
-        }, 500, function () {
+        }, 1, function () {
             $('.slide:last-child').prependTo('.slides-container');
             $('.slides-container').css('left', -slideWidth);
         });
@@ -17,7 +17,7 @@ $(document).ready(function () {
         e.preventDefault();
         $('.slides-container').animate({
             left: '-=' + slideWidth
-        }, 500, function () {
+        }, 1, function () {
             $('.slide:first-child').appendTo('.slides-container');
             $('.slides-container').css('left', -slideWidth);
         });

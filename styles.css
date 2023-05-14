@@ -14,11 +14,7 @@ body {
     overflow-x: hidden;
 }
 
-.navbar {
-    box-shadow: 0 0 16px 0;
-    opacity: 1;
-    width: 100%;
-}
+
 
 img {
     height: auto;
@@ -265,4 +261,16 @@ a:hover, a:active {
 .text3{
     font-size: 2rem;
     color: red;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.collapse{
+    display: flex;
+    justify-content: end;
+}
+.btnt{
+    display: flex;
 }
