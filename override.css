@@ -1,3 +1,6 @@
+body{
+    background: #99c226;
+}
 .navbar {
     box-shadow: 0 0 40px 0;
     opacity: 1;
@@ -6,6 +9,29 @@
 }
 .dropdown-menu{
     left: -126px;
+    background: transparent;
+    border: none;
+}
+.dropdown-item{
+    padding: 0.7rem 1rem;
+    color: white;
+}
+.first{
+    background-color: #17252a;
+}
+.second{
+    background-color: #287a78;
+}
+.third{
+    background-color: #3aafa9;
+}
+.forth{
+    background-color: #def2f1;
+    color: #17252a;
+}
+.fifth{
+    background-color: #ffffff;
+    color: #17252a;
 }
 .navbar-nav{
     font-size: 1.2rem;
